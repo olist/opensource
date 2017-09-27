@@ -18,3 +18,7 @@ TODO
 ### loafer
 
 TODO
+
+## Work at Olist
+
+Developer? [Work with us](https://github.com/olist/work-at-olist)!
