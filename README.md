@@ -35,6 +35,13 @@ Simple models for Python
   * [https://github.com/lamenezes/simple-model](https://github.com/lamenezes/simple-model)
 
 
+### belogging
+
+Easy logging configuration for Python apps
+
+  * [https://github.com/georgeyk/belogging](https://github.com/georgeyk/belogging)
+
+
 ## Contributions
 
 A non-exhaustive list of contributions done to thirdy-party projects by our development team:
