@@ -20,6 +20,15 @@ Iugu's API wrapper
   * [tapioca-wrapper](https://github.com/vintasoftware/tapioca-wrapper/)
 
 
+### tapioca-statuspage
+
+Statuspage's API wrapper
+
+  * [Status Page API](https://doers.statuspage.io/api/v1/)
+  * [https://github.com/olist/tapioca-statuspage](https://github.com/olist/tapioca-statuspage)
+  * [tapioca-wrapper](https://github.com/vintasoftware/tapioca-wrapper/)
+
+
 ### loafer
 
 Asynchronous message dispatcher
