@@ -51,6 +51,41 @@ Easy logging configuration for Python apps
   * [https://github.com/georgeyk/belogging](https://github.com/georgeyk/belogging)
 
 
+### django-rest-framework-rapidjson
+
+Provides rapidjson support with parser and renderer
+
+  * [https://github.com/allisson/django-rest-framework-rapidjson](https://github.com/allisson/django-rest-framework-rapidjson)
+
+
+### python-simple-rest-client
+
+Simple REST client for python 3.5+
+
+  * [https://github.com/allisson/python-simple-rest-client](https://github.com/allisson/python-simple-rest-client)
+
+
+### python-preparer
+
+Simple way to build a new dict based on fields declaration
+
+  * [https://github.com/allisson/python-preparer](https://github.com/allisson/python-preparer)
+
+
+### django-rest-framework-role-filters
+
+Simple role filtering for django-rest-framework
+
+  * [https://github.com/allisson/django-rest-framework-role-filters](https://github.com/allisson/django-rest-framework-role-filters)
+
+
+### django-rest-framework-serializer-mixins
+
+Mixins for Django Rest Framework Serializer
+
+  * [https://github.com/allisson/django-rest-framework-serializer-mixins](https://github.com/allisson/django-rest-framework-serializer-mixins)
+
+
 ## Contributions
 
 A non-exhaustive list of contributions done to thirdy-party projects by our development team:
