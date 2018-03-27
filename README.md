@@ -117,6 +117,9 @@ A non-exhaustive list of contributions done to thirdy-party projects by our deve
   * [workalendar](https://github.com/novafloss/workalendar)
     * [#238](https://github.com/novafloss/workalendar/pull/238)
 
+  * [aioresponses](https://github.com/pnuckowski/aioresponses)
+    * [#95](https://github.com/pnuckowski/aioresponses/pull/95)
+
 
 ## Work at Olist
 
