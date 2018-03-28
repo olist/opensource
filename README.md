@@ -98,6 +98,11 @@ A non-exhaustive list of contributions done to thirdy-party projects by our deve
 
   * [oauthlib](https://github.com/idan/oauthlib)
     * [#484](https://github.com/idan/oauthlib/pull/484)
+    * [#488](https://github.com/oauthlib/oauthlib/pull/488)
+    * [#525](https://github.com/oauthlib/oauthlib/pull/525)
+  
+  * [django-oauth-toolkit](https://github.com/evonove/django-oauth-toolkit)
+    * [#545](https://github.com/evonove/django-oauth-toolkit/pull/545)
 
   * [pytest](https://github.com/pytest-dev/pytest)
     * [#2805](https://github.com/pytest-dev/pytest/pull/2808)
