@@ -100,7 +100,7 @@ A non-exhaustive list of contributions done to thirdy-party projects by our deve
     * [#484](https://github.com/idan/oauthlib/pull/484)
     * [#488](https://github.com/oauthlib/oauthlib/pull/488)
     * [#525](https://github.com/oauthlib/oauthlib/pull/525)
-  
+
   * [django-oauth-toolkit](https://github.com/evonove/django-oauth-toolkit)
     * [#545](https://github.com/evonove/django-oauth-toolkit/pull/545)
 
@@ -125,6 +125,8 @@ A non-exhaustive list of contributions done to thirdy-party projects by our deve
   * [aioresponses](https://github.com/pnuckowski/aioresponses)
     * [#95](https://github.com/pnuckowski/aioresponses/pull/95)
 
+  * [django-active-link](https://github.com/valerymelou/django-active-link)
+    * [#6](https://github.com/valerymelou/django-active-link/pull/6)
 
 ## Work at Olist
 
