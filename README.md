@@ -85,6 +85,12 @@ Mixins for Django Rest Framework Serializer
 
   * [https://github.com/allisson/django-rest-framework-serializer-mixins](https://github.com/allisson/django-rest-framework-serializer-mixins)
 
+### twofa
+
+Two Factor Authentication Generator for CLI
+
+  * [https://github.com/paulovitin/twofa](https://github.com/paulovitin/twofa)
+
 
 ## Contributions
 
