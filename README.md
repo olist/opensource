@@ -134,6 +134,9 @@ A non-exhaustive list of contributions done to thirdy-party projects by our deve
   * [django-active-link](https://github.com/valerymelou/django-active-link)
     * [#6](https://github.com/valerymelou/django-active-link/pull/6)
 
+  * [click](https://github.com/pallets/click)
+    * [#863](https://github.com/pallets/click/pull/863)
+
 ## Work at Olist
 
 Developer? [Work with us](https://github.com/olist/work-at-olist)!
