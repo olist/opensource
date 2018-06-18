@@ -137,6 +137,9 @@ A non-exhaustive list of contributions done to thirdy-party projects by our deve
   * [click](https://github.com/pallets/click)
     * [#863](https://github.com/pallets/click/pull/863)
 
+  * [pgweb](https://github.com/sosedoff/pgweb)
+    * [#366](https://github.com/sosedoff/pgweb/pull/366)
+
 ## Work at Olist
 
 Developer? [Work with us](https://github.com/olist/work-at-olist)!
