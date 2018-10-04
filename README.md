@@ -96,7 +96,7 @@ Two Factor Authentication Generator for CLI
 
 Custom pre-commit hooks
 
-    * [https://github.com/olist/hulks](https://github.com/olist/hulks)
+  * [https://github.com/olist/hulks](https://github.com/olist/hulks)
 
 
 ## Contributions
@@ -154,6 +154,6 @@ A non-exhaustive list of contributions done to thirdy-party projects by our deve
 
 We are hiring!
 
-* [Developer](https://github.com/olist/work-at-olist)!
+* [Developer](https://github.com/olist/work-at-olist)
 * [Front-end developer](https://github.com/olist/work-at-olist-front)
 * [Data-scientist](https://github.com/olist/work-at-olist-data)
