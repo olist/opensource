@@ -92,6 +92,13 @@ Two Factor Authentication Generator for CLI
   * [https://github.com/paulovitin/twofa](https://github.com/paulovitin/twofa)
 
 
+### hulks
+
+Custom pre-commit hooks
+
+    * [https://github.com/olist/hulks](https://github.com/olist/hulks)
+
+
 ## Contributions
 
 A non-exhaustive list of contributions done to thirdy-party projects by our development team:
@@ -140,6 +147,13 @@ A non-exhaustive list of contributions done to thirdy-party projects by our deve
   * [pgweb](https://github.com/sosedoff/pgweb)
     * [#366](https://github.com/sosedoff/pgweb/pull/366)
 
+  * [pre-commit](https://github.com/pre-commit/pre-commit)
+    * [#837](https://github.com/pre-commit/pre-commit/pull/837)
+
 ## Work at Olist
 
-Developer? [Work with us](https://github.com/olist/work-at-olist)!
+We are hiring!
+
+* [Developer](https://github.com/olist/work-at-olist)!
+* [Front-end developer](https://github.com/olist/work-at-olist-front)
+* [Data-scientist](https://github.com/olist/work-at-olist-data)
