@@ -150,6 +150,9 @@ A non-exhaustive list of contributions done to thirdy-party projects by our deve
   * [pre-commit](https://github.com/pre-commit/pre-commit)
     * [#837](https://github.com/pre-commit/pre-commit/pull/837)
 
+  * [django-rest-framework](https://github.com/encode/django-rest-framework)
+    * [#6944](https://github.com/encode/django-rest-framework/pull/6944)
+
 ## Work at Olist
 
 We are hiring!
