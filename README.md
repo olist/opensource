@@ -60,7 +60,7 @@ Provides rapidjson support with parser and renderer:
 
 ### python-simple-rest-client
 
-Simple REST client for python 3.5+ :-
+Simple REST client for python 3.5+ :
 
   * [https://github.com/allisson/python-simple-rest-client](https://github.com/allisson/python-simple-rest-client)
 
