@@ -1,6 +1,6 @@
 ## Olist Open Source Page
 
-Olist believes that collaborating with the software developer community is extremely important. For this reason we distribute some software projects in the form of open source code.
+Olist believes that collaborating with the software developer community is extremely important. For this reason, we distribute some software projects in the form of open source code.
 
 Our opensource repositories could be found [here](https://github.com/olist).
 
@@ -13,7 +13,7 @@ Library to integrate with the main Brazilian logistic carrier Correios.
 
 ### tapioca-iugu
 
-Iugu's API wrapper
+Iugu's API wrapper:
 
   * [Iugu API](https://dev.iugu.com/v1.0/reference)
   * [https://github.com/olist/tapioca-iugu](https://github.com/olist/tapioca-iugu)
@@ -22,7 +22,7 @@ Iugu's API wrapper
 
 ### tapioca-statuspage
 
-Statuspage's API wrapper
+Statuspage's API wrapper:
 
   * [Status Page API](https://doers.statuspage.io/api/v1/)
   * [https://github.com/olist/tapioca-statuspage](https://github.com/olist/tapioca-statuspage)
@@ -31,7 +31,7 @@ Statuspage's API wrapper
 
 ### loafer
 
-Asynchronous message dispatcher
+Asynchronous message dispatcher:
 
   * [Python e microserviços: Introdução ao Loafer](https://engineering.olist.com/python-e-microservicos-introducao-ao-loafer-11b047194b2a)
   * [https://github.com/georgeyk/loafer](https://github.com/georgeyk/loafer)
@@ -39,62 +39,62 @@ Asynchronous message dispatcher
 
 ### simple-model
 
-Simple models for Python
+Simple models for Python:
 
   * [https://github.com/lamenezes/simple-model](https://github.com/lamenezes/simple-model)
 
 
 ### belogging
 
-Easy logging configuration for Python apps
+Easy logging configuration for Python apps:
 
   * [https://github.com/georgeyk/belogging](https://github.com/georgeyk/belogging)
 
 
 ### django-rest-framework-rapidjson
 
-Provides rapidjson support with parser and renderer
+Provides rapidjson support with parser and renderer:
 
   * [https://github.com/allisson/django-rest-framework-rapidjson](https://github.com/allisson/django-rest-framework-rapidjson)
 
 
 ### python-simple-rest-client
 
-Simple REST client for python 3.5+
+Simple REST client for python 3.5+ :
 
   * [https://github.com/allisson/python-simple-rest-client](https://github.com/allisson/python-simple-rest-client)
 
 
 ### python-preparer
 
-Simple way to build a new dict based on fields declaration
+Simple way to build a new dict based on fields declaration:
 
   * [https://github.com/allisson/python-preparer](https://github.com/allisson/python-preparer)
 
 
 ### django-rest-framework-role-filters
 
-Simple role filtering for django-rest-framework
+Simple role filtering for django-rest-framework:
 
   * [https://github.com/allisson/django-rest-framework-role-filters](https://github.com/allisson/django-rest-framework-role-filters)
 
 
 ### django-rest-framework-serializer-mixins
 
-Mixins for Django Rest Framework Serializer
+Mixins for Django Rest Framework Serializer:
 
   * [https://github.com/allisson/django-rest-framework-serializer-mixins](https://github.com/allisson/django-rest-framework-serializer-mixins)
 
 ### twofa
 
-Two Factor Authentication Generator for CLI
+Two Factor Authentication Generator for CLI:
 
   * [https://github.com/paulovitin/twofa](https://github.com/paulovitin/twofa)
 
 
 ### hulks
 
-Custom pre-commit hooks
+Custom pre-commit hooks:
 
   * [https://github.com/olist/hulks](https://github.com/olist/hulks)
 
